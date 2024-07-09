@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ControlStatementPractice_2 : MonoBehaviour
+public class For : MonoBehaviour
 {
     //public int sum; //변수 합산 값 지정
     // Start is called before the first frame update
