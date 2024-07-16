@@ -9,6 +9,7 @@ public class Random : MonoBehaviour
     public bool[] flage;
     public string[] strings;
     public GameObject[] gameObjects;
+    internal static float insideUnitSphere;
 
     // Start is called before the first frame update
     void Start()

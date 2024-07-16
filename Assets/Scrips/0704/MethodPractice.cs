@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 //메서드 연습 
-public class NewBehaviourScript : MonoBehaviour
+public class MethodPractice : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
