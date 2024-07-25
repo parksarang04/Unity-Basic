@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController_1 : MonoBehaviour
 {
 
     public float jumpForce = 700;           //점프에 사용할 힘
